@@ -5,7 +5,7 @@ Personal Repo
 
 > Always up for learning new technologies
 
-**My current expertises are : React native / ReactJS / NodeJS / ExpressJS / MongoDB / Firebase / SQL**
+**My current expertises are : React native / NodeJS / ExpressJS / MongoDB / Firebase / SQL**
 
 
 🔭 I’m currently working on **Gaming mobile app**
