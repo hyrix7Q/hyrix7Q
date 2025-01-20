@@ -1,19 +1,19 @@
 # I'm Zakaria-Kendil 👋
 Personal Repo
 
-## Fullstack mobile app developer
+## Software engineer
 
 > Always up for learning new technologies
 
-**My current expertises are : React native / NodeJS / ExpressJS / MongoDB / Firebase / SQL**
+**My current expertises are : React / React native / NodeJS / ExpressJS / MongoDB / SQL**
 
 
-🔭 I’m currently working on **Gaming mobile app**
+🔭 I’m currently working on **Innovant project**
 
-🌱 I’m currently learning **ReactJS and PHP , MySQL**
+🌱 I’m currently learning **Knex.js with PostgreSQL**
 
-👯 I’m looking to collaborate on **React native** projects
+👯 I’m looking to collaborate on **Node js ** projects
 
-👨‍💻 All of my projects are available here
+👨‍💻 I only post personal systems that i developed because of client's privacy !
 
-📫 How to reach me hyrixlele@gmail.com
+
